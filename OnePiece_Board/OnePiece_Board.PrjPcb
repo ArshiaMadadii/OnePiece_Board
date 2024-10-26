@@ -1099,6 +1099,21 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=3V3|NetColor=clRed
+Net2=NetName=5_SW|NetColor=$00000099
+Net3=NetName=BOOT0|NetColor=$006B7EDD
+Net4=NetName=GND|NetColor=$00434343
+Net5=NetName=NRST|NetColor=$002541CC
+Net6=NetName=OSC_IN|NetColor=$000C2085
+Net7=NetName=OSC_OUT|NetColor=$000C2085
+Net8=NetName=OSC32_IN|NetColor=$009999EA
+Net9=NetName=OSC32_OUT|NetColor=$006666E0
+Net10=NetName=VCAP1|NetColor=$0066D9FF
+Net11=NetName=VCAP2|NetColor=$0066D9FF
+Net12=NetName=VDDA|NetColor=$009999EA
+Net13=NetName=VSSA|NetColor=$00999999
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
