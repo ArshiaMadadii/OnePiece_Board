@@ -55,7 +55,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -72,7 +72,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1126,10 +1126,11 @@ Net6=NetName=OSC_IN|NetColor=$000C2085
 Net7=NetName=OSC_OUT|NetColor=$000C2085
 Net8=NetName=OSC32_IN|NetColor=$009999EA
 Net9=NetName=OSC32_OUT|NetColor=$006666E0
-Net10=NetName=VCAP1|NetColor=$0066D9FF
-Net11=NetName=VCAP2|NetColor=$0066D9FF
-Net12=NetName=VDDA|NetColor=$009999EA
-Net13=NetName=VSSA|NetColor=$00999999
+Net10=NetName=PE2|NetColor=clLime
+Net11=NetName=VCAP1|NetColor=$0066D9FF
+Net12=NetName=VCAP2|NetColor=$0066D9FF
+Net13=NetName=VDDA|NetColor=$009999EA
+Net14=NetName=VSSA|NetColor=$00999999
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
