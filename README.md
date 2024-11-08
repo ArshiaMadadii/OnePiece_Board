@@ -27,7 +27,7 @@ With the OnePiece Board, a wide range of applications can be explored, such as:
 ## Contact
 For inquiries or to connect, feel free to reach out:
 
-📧 **Email:** [ars.madad@gmail.com](mailto:ars.madad@gmail.com)  
+📧 **Email:** [ars.madadi@gmail.com](mailto:ars.madadi@gmail.com)  
 🌐 **LinkedIn:** [Arshia Madadi](https://www.linkedin.com/in/arshiamadadi)
 
 We hope the OnePiece Board becomes a valuable part of your journey in learning and innovation!
